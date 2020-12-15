@@ -1,0 +1,19 @@
+{
+    "name": "caicai/mysqlframework",
+    "description": "mysql connecter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "caiwei",
+            "email": "980440825@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CaiCai\\": "src/" 
+        }
+    }
+}
